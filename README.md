@@ -1,4 +1,5 @@
 Let me introduce you the main differences between the Transparent Proxy Model and UUPS Proxy Model.
+
 1.Upgrade Mechanism Location
 In the Transparent Proxy Model, the upgrade mechanism is external to the implementation contract and managed through a separate admin contract. 
 However, UUPS model integrates the upgrade mechanism within the implementation contract itself.
