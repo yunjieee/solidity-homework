@@ -1,0 +1,15 @@
+The main difference between these two methods is how they manage and pay for the fees associated with generating random numbers.
+
+
+
+Subscription method: 
+Users or projects obtain the right to use VRF services within a period of time or a certain number of requests by paying a certain subscription fee. 
+This method is suitable for applications that frequently require random numbers, such as online games, lottery systems, etc., 
+because it can reduce the cost of each request and improve economic efficiency.
+
+
+
+Direct funding method: 
+Each time a random number is requested, the user or project needs to pay the corresponding fee directly. 
+This method is suitable for scenarios that occasionally require random number services, 
+such as specific smart contract operations or a small number of random number generation needs, because it does not require a large upfront fee and is more flexible.
